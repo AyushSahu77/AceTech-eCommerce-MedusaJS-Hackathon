@@ -9,21 +9,7 @@
 
 Connect with us : 
 
-LinkedIn
-
- [LinkedIn-Ayush-Sahu]
- [LinkedIn-Akash-Verma]
- [LinkedIn-Anurag-Biswal]
- [LinkedIn-Krishna-Agarwal]
- [LinkedIn-Harsh-Khapre]
-
- Twitter
-
- [Twitter-Ayush-Sahu]
- [Twitter-Akash-Verma]
- [Twitter-Anurag-Biswal]
- [Twitter-Krishna-Agarwal]
- [Twitter-Harsh-Khapre]
+[All-Platform-Links]
 
 Discord Tags of Team members
 
@@ -157,17 +143,7 @@ Download Visual Studio Code on your machine at [VScode]
 
 [//]: # 
 
-[LinkedIn-Ayush-Sahu]: <https://www.linkedin.com/in/ayushsahu77/>
-[LinkedIn-Akash-Verma]: <https://www.linkedin.com/in/akashverma095//>
-[LinkedIn-Anurag-Biswal]: <https://www.linkedin.com/in/anurag-biswal72//>
-[LinkedIn-Krishna-Agarwal]: <https://www.linkedin.com/in/krishna-agarwal-79814517b//>
-[LinkedIn-Harsh-Khapre]: <https://www.linkedin.com/in/harsh-khapre-20677717b//>
-
-[Twitter-Ayush-Sahu]: <https://twitter.com/Ayush_7477/>
-[Twitter-Akash-Verma]: <https://twitter.com/Nerdon36/>
-[Twitter-Anurag-Biswal]: <https://twitter.com/AnuragBiswal72/>
-[Twitter-Krishna-Agarwal]: <https://github.com/KrishnaAgarwal781/>
-[Twitter-Harsh-Khapre]: <https://twitter.com/khapre_harsh/>
+[All-Platform-Links]:<https://linktr.ee/ace_tech/>
 
 [Youtube]: <https://youtu.be/bPEsj_8bTu4/>
 
