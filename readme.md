@@ -142,6 +142,7 @@ Download Visual Studio Code on your machine at [VScode]
 ## For more info visit official Medusa documentation here [Medusa-Offical]
 
 [//]: # 
+1. Krishna Agarwal
 
 [All-Platform-Links]:<https://linktr.ee/ace_tech/>
 
